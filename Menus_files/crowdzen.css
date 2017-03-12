@@ -1,0 +1,13 @@
+
+.status-icon {
+    position: relative;
+    display: inline-block;
+    background-image: url('statusicon2.png');
+    background-position: top; /* Default to green */
+    overflow: hidden;
+    top: 7px;
+    right: 5px;
+    width: 32px;
+    height: 32px;
+    z-index: 20;
+}
