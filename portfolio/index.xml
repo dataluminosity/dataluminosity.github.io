@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Portfolio</title>
+    <link>https://example.org/portfolio/</link>
+    <description>Recent content in Portfolios on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Data Luminosity by Private Analytics</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CrowdZen</title>
+      <link>https://example.org/portfolio/crowdzen/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/crowdzen/</guid>
+      <description>&lt;p&gt;Real-time privacy-preserving activity levels. First known public open data privacy-presrving campus deployment.&lt;/p&gt;
+
+&lt;p&gt;Joshua Joy, Martin Verde, Keshav Tadimeti, Tyler Lindberg, Mario Gerla&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LocationSafe</title>
+      <link>https://example.org/portfolio/locationsafe/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/locationsafe/</guid>
+      <description>&lt;p&gt;First design and implementation of a privacy module built into the GPSD daemon.&lt;/p&gt;
+
+&lt;p&gt;Joshua Joy, Minh Le, Mario Gerla&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DiscoverFriends</title>
+      <link>https://example.org/portfolio/discoverfriends/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/discoverfriends/</guid>
+      <description>&lt;p&gt;DiscoverFriends: Secure social network communication in mobile ad hoc networks.&lt;/p&gt;
+
+&lt;p&gt;The first Android multi-hop WiFi direct protocol using IPv6.&lt;/p&gt;
+
+&lt;p&gt;This paper presents a secure communication application called DiscoverFriends.  Its purpose is to securely communicate to a group of online friends while bypassing their respective social networking servers under a mobile ad hoc network environment. DiscoverFriends leverages Bloom filters and a hybrid encryption technique with a self-organized public-key management scheme to securely identify friends and provide authentication. Additionally, DiscoverFriends enables anonymous location check-ins by utilizing a new cryptographic primitive called Function Secret Sharing. Finally, to the best of our knowledge, DiscoverFriends implements and evaluates the first Android multi-hop WiFi direct protocol using IPv6.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
