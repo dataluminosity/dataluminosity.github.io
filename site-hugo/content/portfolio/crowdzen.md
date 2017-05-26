@@ -7,7 +7,7 @@ showonlyimage = false
 weight = 1
 +++
 
-Real-time privacy-preserving activity levels. First known public open data privacy-presrving campus deployment.
+Real-time privacy-preserving activity levels. First known public open data privacy-preserving campus deployment.
 
 Joshua Joy, Martin Verde, Keshav Tadimeti, Tyler Lindberg, Mario Gerla
 
@@ -15,6 +15,7 @@ Joshua Joy, Martin Verde, Keshav Tadimeti, Tyler Lindberg, Mario Gerla
 
 ## [CrowdZen Site](https://crowdzen.cs.ucla.edu)
 
+## [Media](http://dailybruin.com/2017/05/25/new-dining-services-online-feature-optimizes-meal-time-efficiency/)
 
 [![IMAGE ALT TEXT](/img/crowdzen-youtube.png)](http://www.youtube.com/watch?v=z1o7fYX8jHQ "CrowdZen")
 
