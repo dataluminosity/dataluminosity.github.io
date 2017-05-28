@@ -2,6 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "CrowdZen"
 draft = false
+#image = "img/crowdzen/activitylevel.png"
 image = "img/portfolio/crowdzen.jpg"
 showonlyimage = false
 weight = 1
@@ -22,14 +23,8 @@ url_media=["http://dailybruin.com/2017/05/25/new-dining-services-online-feature-
 
 ## [CrowdZen Site](https://crowdzen.cs.ucla.edu)
 
-## [Media](http://dailybruin.com/2017/05/25/new-dining-services-online-feature-optimizes-meal-time-efficiency/)
+## [Daily Bruin Article](http://dailybruin.com/2017/05/25/new-dining-services-online-feature-optimizes-meal-time-efficiency/)
 
 [![IMAGE ALT TEXT](/img/crowdzen-youtube.png)](http://www.youtube.com/watch?v=z1o7fYX8jHQ "CrowdZen")
 
-## Source Modules
-
-[Message Interchange](https://github.com/data-luminosity/message)
-
-[Login iOS](https://github.com/data-luminosity/login-ios)
-
-[Query Module iOS](https://github.com/data-luminosity/query-ios)
+![Activity Level](/img/crowdzen/activitylevel.png)
