@@ -14,6 +14,7 @@ url_code="https://github.com/search?q=topic%3Acrowdzen+org%3Adata-luminosity&typ
 url_ios="https://geo.itunes.apple.com/us/app/crowdzen-analytics/id1100012563?mt=8"
 url_android="https://play.google.com/store/apps/details?id=com.privateanalytics.crowdzen"
 url_site="https://crowdzen.cs.ucla.edu"
+url_media=["http://dailybruin.com/2017/05/25/new-dining-services-online-feature-optimizes-meal-time-efficiency/"]
 +++
 
 
